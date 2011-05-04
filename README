@@ -1,0 +1,5 @@
+Copy config.default.php to config.php and fill in the fields.
+
+Edit and then run the rename.php script to rename a username in Google Apps.
+
+Requires curl and soap modules to be enabled in php.
